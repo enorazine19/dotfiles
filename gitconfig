@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = enora.zine@gmail.com
+	name = enora zine
